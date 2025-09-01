@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+alembic
+pydantic
+pydantic-settings
+asyncpg
+flake8
+black
+isort
+pytest
+pytest-asyncio
+pytest-cov
+httpx
+aiosqlite
