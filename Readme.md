@@ -1,7 +1,3 @@
-Конечно! Вот пример README для вашего проекта "Менеджер задач", с учётом всех деталей, которые вы описали:
-
----
-
 # Task Manager API
 
 Асинхронный менеджер задач на FastAPI с PostgreSQL, SQLAlchemy, Alembic и Docker.
